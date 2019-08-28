@@ -1,5 +1,5 @@
 # Logistic-Regression-Classifier
-Part of a Data Scinece Bootcamp training material. I wrote it as an illustration of simple logistic-regresson clasifier algorithm implementation.
+Part of the Data Scinece Bootcamp training material. I wrote it as an illustration of simple logistic-regresson clasifier algorithm implementation.
 There are two implemented algortithms:
  - Iterative log-reg classifier
  - Vector log-reg classifier  
